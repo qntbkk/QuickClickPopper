@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <package xmlns="http://www.mendix.com/package/1.0/">
-    <clientModule name="TetrisWidget" version="1.0.0" xmlns="http://www.mendix.com/clientModule/1.0/">
+    <clientModule name="QuickClickPopper" version="1.0.0" xmlns="http://www.mendix.com/clientModule/1.0/">
         <widgetFiles>
-            <widgetFile path="TetrisWidget/TetrisWidget.xml" />
+            <widgetFile path="QuickClickPopper/QuickClickPopper.xml" />
         </widgetFiles>
         <files>
-            <file path="TetrisWidget/widget/" />
+            <file path="QuickClickPopper/widget/" />
         </files>
     </clientModule>
 </package>
